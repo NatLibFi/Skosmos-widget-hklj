@@ -1,0 +1,6 @@
+{
+    "css": ["hklj-plugin.css"],
+    "js": ["hklj-plugin.js"],
+    "callback": ["hkljWarning"],
+    "templates": ["template.html"]
+}
